@@ -1,2 +1,6 @@
 # Stock-Performance-Dash-Board
-This is the project we can see the daily updated information of S and P 500 stock performance in different category. The process flow is we fecth finanacial data from Python by using Yahoo finance and modify that by using SQL .Finally we visualize them by using BI.
+This repositary allows you to view daily updated information on S&P 500 stock performance across different categories.
+DashBorad Overview
+Data Collection: Financial data is fetched using Python and the Yahoo Finance library.
+Data Processing: The raw data is cleaned, aggregated, and modified using PostgreSQL SQL queries.
+Data Visualization: The processed data is visualized in Power BI, showing insights such as top sectors, industries, stock types expensive vs penny stocks.
