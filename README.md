@@ -22,3 +22,10 @@ It helps users quickly identify:
 - Searching Specific stock performane based on client request.
 
 By combining **Python for data fetching**, **SQL for data processing**, and **Power BI for visualization**, this project demonstrates a complete **data-to-insight workflow** that can be used for investment analysis or business intelligence reporting.
+
+Reference View for BI
+
+<img width="1116" height="703" alt="image" src="https://github.com/user-attachments/assets/dea0b4b0-484d-462e-9e1c-bc0decfea2d4" />
+
+
+
